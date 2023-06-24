@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-06-24T12:32:45 IST" name="Default suite" finished-at="2023-06-24T12:32:51 IST" duration-ms="6122">
+    <groups>
+    </groups>
+    <test started-at="2023-06-24T12:32:45 IST" name="Default test" finished-at="2023-06-24T12:32:51 IST" duration-ms="6122">
+      <class name="Trello.SimpleBooks">
+        <test-method signature="Authenticate()[pri:0, instance:Trello.SimpleBooks@ffaa6af]" started-at="2023-06-24T12:32:45 IST" name="Authenticate" finished-at="2023-06-24T12:32:48 IST" duration-ms="3195" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Authenticate -->
+        <test-method signature="createOrder()[pri:1, instance:Trello.SimpleBooks@ffaa6af]" started-at="2023-06-24T12:32:48 IST" name="createOrder" finished-at="2023-06-24T12:32:50 IST" duration-ms="1495" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createOrder -->
+        <test-method signature="DeleteOrder()[pri:2, instance:Trello.SimpleBooks@ffaa6af]" started-at="2023-06-24T12:32:50 IST" name="DeleteOrder" finished-at="2023-06-24T12:32:51 IST" duration-ms="1377" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DeleteOrder -->
+      </class> <!-- Trello.SimpleBooks -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
